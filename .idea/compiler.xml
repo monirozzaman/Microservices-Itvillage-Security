@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zuulgetwaymodule" />
+        <module name="uaamodule" />
+        <module name="eurekaservermodule" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="domen" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eurekaserver" target="1.8" />
+      <module name="eurekaServer" target="1.8" />
+      <module name="eurekaservermodule" target="1.8" />
+      <module name="security-microservices-itvillageltd" target="1.8" />
+      <module name="uaa" target="1.8" />
+      <module name="uaamodule" target="1.8" />
+      <module name="zuulgetway" target="1.8" />
+      <module name="zuulGetway" target="1.8" />
+      <module name="zuulgetwaymodule" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+      <module name="domen" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="eurekaServer" options="-parameters" />
+      <module name="eurekaserver" options="-parameters" />
+      <module name="eurekaservermodule" options="-parameters" />
+      <module name="security-microservices-itvillageltd" options="-parameters" />
+      <module name="uaa" options="-parameters" />
+      <module name="uaamodule" options="-parameters" />
+      <module name="zuulGetway" options="-parameters" />
+      <module name="zuulgetway" options="-parameters" />
+      <module name="zuulgetwaymodule" options="-parameters" />
+    </option>
+  </component>
+</project>

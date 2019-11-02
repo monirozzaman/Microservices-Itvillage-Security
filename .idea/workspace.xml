@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6450a958-fc41-40de-b7e8-e59b904be556" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T1Np3Kuys8GLzypGQkH3YaqVBY" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/uaa-module/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\monirozzamanroni\Dropbox\Job's Projects\Chumbok IT\Spring Boot\security-microservices-itvillageltd\uaa-module\src\main\resources" />
+      <recent name="C:\Users\monirozzamanroni\Dropbox\Job's Projects\Chumbok IT\Spring Boot\security-microservices-itvillageltd\uaa-module\src\main\java\com\itvillage\uaa" />
+      <recent name="C:\Users\monirozzamanroni\Dropbox\Job's Projects\Chumbok IT\Spring Boot\security-microservices-itvillageltd\zuul-getway-module\src\main\resources" />
+      <recent name="C:\Users\monirozzamanroni\Dropbox\Job's Projects\Chumbok IT\Spring Boot\security-microservices-itvillageltd\eureka-server-module\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ZuulGetwayApplication">
+    <configuration name="UaaApplicaion" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="uaamodule" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itvillage.uaa.UaaApplicaion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eurekaservermodule" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itvillage.server.EurekaServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulGetwayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zuulgetwaymodule" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itvillage.getway.ZuulGetwayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Unnamed" />
+      <item itemvalue="Spring Boot.ZuulGetwayApplication" />
+      <item itemvalue="Spring Boot.UaaApplicaion" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6450a958-fc41-40de-b7e8-e59b904be556" name="Default Changelist" comment="" />
+      <created>1572623820286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572623820286</updated>
+      <workItem from="1572623824631" duration="2996000" />
+      <workItem from="1572628175119" duration="6000" />
+      <workItem from="1572628753035" duration="538000" />
+      <workItem from="1572629461824" duration="1957000" />
+      <workItem from="1572631439502" duration="3293000" />
+      <workItem from="1572634930769" duration="1716000" />
+      <workItem from="1572697163368" duration="1290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

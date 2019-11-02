@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-module/eurekaservermodule.iml" filepath="$PROJECT_DIR$/eureka-server-module/eurekaservermodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-microservices-itvillageltd.iml" filepath="$PROJECT_DIR$/security-microservices-itvillageltd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uaa-module/uaamodule.iml" filepath="$PROJECT_DIR$/uaa-module/uaamodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-getway-module/zuulgetwaymodule.iml" filepath="$PROJECT_DIR$/zuul-getway-module/zuulgetwaymodule.iml" />
+    </modules>
+  </component>
+</project>

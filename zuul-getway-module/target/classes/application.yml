@@ -1,0 +1,32 @@
+spring:
+  application:
+    name: zuul-getway
+
+
+server:
+  port: 8077
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+  serviceUrl:
+    defaultZone: http://localhost:8761/eureka/
+  instance:
+    hostname: localhost
+
+zuul:
+  prefix: /getway
+  routes:
+    uaa:
+      path: /uaa/**
+      serviceId: Jwt-UAA
+
+
+hystrix:
+  command:
+    defualt:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilloseconds: 60000
